@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="java_typemapping.java.math.BigDecimal">BigDecimal</entry>
+<entry key="jdbc_catalog"/>
+<entry key="jdbc_username">turingoal</entry>
+<entry key="outRoot">./generator-output</entry>
+<entry key="java_typemapping.java.lang.Short">Integer</entry>
+<entry key="namespace">pages</entry>
+<entry key="jdbc_driver">org.postgresql.Driver</entry>
+<entry key="java_typemapping.java.sql.Clob">String</entry>
+<entry key="java_typemapping.java.sql.Timestamp">Date</entry>
+<entry key="basepackage">com.turingoal.mengbao.school.modules</entry>
+<entry key="jdbc_password">TGadmin2015</entry>
+<entry key="jdbc_schema"/>
+<entry key="tableRemovePrefixes">tg_mengbao_m</entry>
+<entry key="jdbc_url">jdbc:postgresql://182.92.129.128:5432/tg-lite-mengbao</entry>
+<entry key="java_typemapping.java.sql.Time">Date</entry>
+<entry key="java_typemapping.java.sql.Date">Date</entry>
+<entry key="java_typemapping.java.lang.Byte">Integer</entry>
+</properties>
